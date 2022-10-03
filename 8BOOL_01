@@ -1,1 +1,7 @@
-
+{
+  "name": "8BOOL",
+  "description": "8BOOL - an 8BALL pool on preview network",
+  "ticker": "8BOOL",
+  "homepage": "https://metablx.com",
+  "extended": "https://bit.ly/8BOOL_X1"
+}
